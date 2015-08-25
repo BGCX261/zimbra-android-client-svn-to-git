@@ -1,0 +1,13 @@
+<resources>
+	<string name="hello">Hello World, LoginActivity!</string>
+	<string name="app_name">Zimbra Client</string>
+	<string name="ACCOUNT_TYPE">org.tpaagp.ZimbraClient.account</string>
+	<string name="server">Server:</string>
+	<string name="username">Username:</string>
+	<string name="password">Password:</string>
+	<string name="use_ssl">Use ssl (https):</string>
+	<string name="port">Port:</string>
+	<string name="defaultPort">443</string>
+	<string name="login">Login</string>
+	<string name="authenticating">Authenticating</string>
+</resources>
